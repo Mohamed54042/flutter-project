@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469014149442",
+    "project_id": "flutter-firebase-feccb",
+    "storage_bucket": "flutter-firebase-feccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469014149442:android:77c5085e0febcc8658b0db",
+        "android_client_info": {
+          "package_name": "com.example.conx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5fO_5nomdSD-aC68FaShwQjlaRlMNXKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
